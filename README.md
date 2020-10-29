@@ -1,2 +1,2 @@
-# Sorting-Algorithms
-Contains sorting techniques
+# Searching-Sorting
+Contains searching and sorting techniques
